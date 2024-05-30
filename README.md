@@ -16,4 +16,4 @@ You can also use setting.ini in Binaries folder to rename hotkeys (currently wor
 
 
 
-If you're getting this error then you must instal this - [Fix](https://drive.google.com/file/d/1qaNGKJbGROVaEAQeCVxTSOzJRsLOJY5w/view?usp=sharing)
+If you're getting this error then you must install this - [Fix](https://drive.google.com/file/d/1qaNGKJbGROVaEAQeCVxTSOzJRsLOJY5w/view?usp=sharing)
