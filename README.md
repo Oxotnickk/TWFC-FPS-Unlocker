@@ -17,3 +17,7 @@ You can also use settings.ini in Binaries folder to rename hotkeys (currently wo
 
 
 If you're getting this error then you must install this - [Fix](https://drive.google.com/file/d/1qaNGKJbGROVaEAQeCVxTSOzJRsLOJY5w/view?usp=sharing)
+
+
+# Steam Deck users -> [Here](https://github.com/Oxotnickk/TWFC-FPS-Unlocker/releases/tag/TWFCSD)
+- Put in Binaries folder exe or replace it
